@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>373687789939-348og7ftnil9et6rsdenhq479f3g9f8v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdyGnwvgp8-IjhhTYvfdB1E9N2bColKFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373687789939</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.najottalim.firebaseAppNajot.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>abdurasulsapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>abdurasulsapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373687789939:ios:b8790e7d1512eb9dc2bd06</string>
+</dict>
+</plist>

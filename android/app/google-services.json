@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "373687789939",
+    "project_id": "abdurasulsapp",
+    "storage_bucket": "abdurasulsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373687789939:android:b0659ae6d628eb9ec2bd06",
+        "android_client_info": {
+          "package_name": "com.example.abdurasulsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373687789939-348og7ftnil9et6rsdenhq479f3g9f8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdurasulsapp",
+            "certificate_hash": "9f47f91563e1de73276c5d9f9d4dcd02ca8ca433"
+          }
+        },
+        {
+          "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVq4N2z0OzvmPExSUi7Hxi0QfSer6ptRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373687789939-dh2ekdkh9o6ki11nhdlf3vtc5et1948g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.najottalim.firebaseAppNajot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373687789939:android:52f48943b60ab1f2c2bd06",
+        "android_client_info": {
+          "package_name": "com.example.fake_store_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVq4N2z0OzvmPExSUi7Hxi0QfSer6ptRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373687789939-dh2ekdkh9o6ki11nhdlf3vtc5et1948g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.najottalim.firebaseAppNajot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373687789939:android:c9455fbf8d3d51fec2bd06",
+        "android_client_info": {
+          "package_name": "com.najot_talim.firebase_app_najot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373687789939-tik1ifm18ug99uveph955enrltvr6ote.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.najot_talim.firebase_app_najot",
+            "certificate_hash": "9f47f91563e1de73276c5d9f9d4dcd02ca8ca433"
+          }
+        },
+        {
+          "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVq4N2z0OzvmPExSUi7Hxi0QfSer6ptRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373687789939-pefm4ff8ncvihu2opcrff8cj916nb0df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "373687789939-dh2ekdkh9o6ki11nhdlf3vtc5et1948g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.najottalim.firebaseAppNajot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
